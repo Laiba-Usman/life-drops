@@ -2,8 +2,8 @@
 
 ## Group Members
 
-- **Member A:** Waris Ali  
-- **Member B:** Laiba Usman  
+- **Member A:** Waris Ali  (https://github.com/waris-ali-git)
+- **Member B:** Laiba Usman (https://github.com/Laiba-Usman) 
 
 ---
 
