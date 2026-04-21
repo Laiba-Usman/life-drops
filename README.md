@@ -87,18 +87,19 @@ Built using Node.js, Express.js, and MongoDB following REST API architecture.
 
 ---
 ## 🧩 Project Structure
+
 src/
- ├── modules/
- │    ├── auth/
- │    ├── users/
- │    ├── donors/
- │    ├── requests/
- │    ├── bloodbank/
- │    └── notifications/
- ├── middleware/
- ├── utils/
- ├── config/
- └── routes/
+├── modules/
+│ ├── auth/
+│ ├── users/
+│ ├── donors/
+│ ├── requests/
+│ ├── bloodbank/
+│ └── notifications/
+├── middleware/
+├── utils/
+├── config/
+└── routes/
 
  ---
  ## 🚀 Features
